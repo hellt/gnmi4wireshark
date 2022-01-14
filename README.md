@@ -8,3 +8,4 @@ Proto files to use in Wireshark to enable gNMI dissection
 References:
 * wireshark+protobuf tutorial - https://gitlab.com/wireshark/wireshark/-/wikis/Protobuf
 * https://gitlab.com/wireshark/wireshark/-/wikis/grpc
+* https://gitlab.com/wireshark/wireshark/-/wikis/How-to-Export-TLS-Master-keys-of-gRPC
