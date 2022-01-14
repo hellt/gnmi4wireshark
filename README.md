@@ -5,4 +5,6 @@ Proto files to use in Wireshark to enable gNMI dissection
 1. descriptor.proto is sourced from [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf/blob/8f6c3c6824c669e1df46cd04204524825ac05139/src/google/protobuf/descriptor.proto)
 1. any.proto is sourced from [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf/blob/8f6c3c6824c669e1df46cd04204524825ac05139/src/google/protobuf/any.proto)
 
-wireshark+protobuf tutorial - https://gitlab.com/wireshark/wireshark/-/wikis/Protobuf
+References:
+* wireshark+protobuf tutorial - https://gitlab.com/wireshark/wireshark/-/wikis/Protobuf
+* https://gitlab.com/wireshark/wireshark/-/wikis/grpc
